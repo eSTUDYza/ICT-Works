@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ICT.COM" resolutions="1x" timestamp="1566390034360">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ICT.COM" resolutions="1x" timestamp="1566392179450">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="125654853" ref="index"/>
+    <file name="index.css" crc="4082593841" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,23 +13,22 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="roof-u112-fr.png" crc="3879310049" ref="index"/>
     <file name="top.png" crc="4067298662" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bottom.png" crc="4100544336" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner.png" crc="4217415878" ref="index">
+    <file name="banner.png" crc="246888380" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="activities-u203-fr.png" crc="464858039" ref="index"/>
-    <file name="website-u206-fr.png" crc="3764415299" ref="index"/>
+    <file name="activities-u203-fr.png" crc="4201746500" ref="index"/>
+    <file name="website-u206-fr.png" crc="479532269" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u229.png" crc="7980885" ref="index"/>
     <file name="u229-r.png" crc="7980885" ref="index"/>
-    <file name="u327.png" crc="317645122" ref="index"/>
-    <file name="u327-r.png" crc="317645122" ref="index"/>
+    <file name="u392.png" crc="317645122" ref="index"/>
+    <file name="u392-r.png" crc="317645122" ref="index"/>
   </folder>
-  <file name="index.html" crc="482826095" seo="true" mt="1566390020787" redirect="true"/>
+  <file name="index.html" crc="18168177" seo="true" mt="1566392178664" redirect="true"/>
 </manifest>
